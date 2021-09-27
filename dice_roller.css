@@ -1,8 +1,27 @@
-h2 {
-    color: blue;
+body {
+    background-color: rgb(80, 80, 80);
+    color: #ffffff;
     text-align:center;
 }
-body{
-    color: #790000;
+span {
+    color: #ffffff;
+    margin: 30px;
+    float: center;
+
+}
+h2 {
+    color: rgb(255, 255, 255);
     text-align:center;
+}
+p {
+    text-align:left;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+img {
+    width:10%;
+    height:auto;
+}
+input {
+    text-align:right;
 }
